@@ -1,0 +1,97 @@
+.containercardapio{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    flex-direction: column;
+}
+.containercardapio h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.cappu{
+    display: flex;
+    justify-content: flex-start;
+    width: 700px;
+    border: 1px solid;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    background-color:  #dec594; 
+}
+.cappu img{
+    width: 300px;
+    border-radius: 15px;
+}
+.coxinha{
+    display: flex;
+    justify-content: flex-end;
+    width: 700px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color:  #dec594; 
+}
+.coxinha img{
+    width: 300px;
+    border-radius: 15px;
+}
+.empada{
+    display: flex;
+    justify-content: flex-start;
+    width: 700px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color:  #dec594; 
+}
+.empada img{
+    width: 300px;
+    border-radius: 15px;
+}
+.expresso{
+    display: flex;
+    justify-content: flex-end;
+    width: 700px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color:  #dec594; 
+}
+.expresso img{
+    width: 300px;
+    border-radius: 15px;
+}
+.hibisco{
+    display: flex;
+    justify-content: flex-start;
+    width: 700px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color:  #dec594; 
+}
+.hibisco img{
+    width: 300px;
+    border-radius: 15px;
+}
+.limao{
+    display: flex;
+    justify-content: flex-end;
+    width: 700px;
+    border: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color:  #dec594; 
+}
+.limao img{
+    width: 300px;
+    border-radius: 15px;
+}
+h1{
+    text-decoration: underline;
+}
+.containercardapio p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
